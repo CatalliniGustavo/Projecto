@@ -1,0 +1,49 @@
+body {
+    background-color:cadetblue;
+}
+
+h1 {
+    background-color: rgb(48, 48, 161);
+    padding: 10px;
+    margin: 10px 400px 10px 400px;
+    color: aliceblue;
+    font-family: Calibri, sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255, 0.5);
+    box-shadow: 0px 0px 30px rgba(255, 255, 255, 0.5);
+}
+p {
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+    font-size: 20px;
+    background-color: aquamarine;
+    padding: 50px;
+    margin: 50px;
+    box-shadow: 0px 0px 20px rgba(128, 128, 128, 0.527);
+    text-align: center, left;
+}
+h2{
+    font-family: calibri;
+    background-color: rgb(48, 48, 161);
+    padding: 10px;
+    margin: 10px 400px 10px 400px;
+    color: aliceblue;
+    font-size: 40px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255, 0.5);
+    box-shadow: 0px 0px 30px rgba(255, 255, 255, 0.5);
+
+}
+ol{
+    background-color: rgb(116, 83, 146);
+    font-family: calibri;
+    color: aliceblue;
+    font-size: 20px;
+    padding: 10px 10px 10px 30px;
+    text-align: center, left;
+    margin: 10px 1000px 10px 50px;
+    box-shadow: 0px 0px 20px rgba(128, 128, 128, 0.527);
+}

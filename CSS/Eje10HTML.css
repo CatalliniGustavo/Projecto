@@ -1,0 +1,35 @@
+#titulo {
+  color: rgb(85, 155, 114);
+}
+#rojo {
+  color: red;
+}
+.destacado {
+  color: orange;
+}
+#subtitulo {
+  color: blue;
+}
+a {
+  color: #cc000c;
+}
+a:hover {
+  color: yellow;
+}
+
+.especial {
+  color: blueviolet;
+}
+.tabla {
+  border-collapse: collapse;
+}
+.tabla th,
+.tabla td {
+  border: 1px solid black;
+}
+#adicional{
+    color: rgb(117, 112, 32);
+}
+#magenta{
+    color: magenta;
+}

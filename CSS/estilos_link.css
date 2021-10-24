@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(135, 113, 145);
+}
+
+.link {
+  color: #cc0000;
+  font-family: calibri;
+  font-size: 20px;
+}
+a:hover {
+  color: #fff;
+  background-color: #cc0000;
+  padding: 3px;
+  border-end-end-radius: 50%;
+}
+a:visited {
+  color: #ccc;
+}
+a:active {
+  color: blue;
+}
+li {
+  font-family: calibri;
+  font-size: 20px;
+}
